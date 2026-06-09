@@ -19,7 +19,7 @@ Este repo se va completando clase a clase. La estructura final, al acabar el mó
 | `pegar-error/` | Formatear un error de runtime para depurarlo con Claude. | 8 |
 | `deploy-vercel/` | Publicar una app Next.js en Vercel. | 9 |
 | `deploy-github-pages/` | Publicar una web estática en GitHub Pages. | 9 |
-| `kit-vibe-coder/` | Compilación final del flujo completo. | 10 |
+| `kit-vibe-coder/` | Índice maestro del kit + guía orientativa para el alumno. | 10 |
 
 ---
 
